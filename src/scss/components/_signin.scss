@@ -1,0 +1,22 @@
+.content {
+   flex: 1 1 auto;
+ }
+ .content__forms .form {
+   margin-top: 12%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+ }
+ 
+ .btn {
+   background-color: rgba(175, 250, 181, 0.788);
+   color: #000;
+   width: 500px;
+   height: 35px;
+   border-radius: 10px;
+   padding-left: 10px;
+   margin-bottom: 40px;
+ }
+ .content__title h1 {
+   font-size: 37px;
+ }

@@ -1,0 +1,28 @@
+.content {
+   .content__title {
+     h1 {
+       font-size: 37px;
+     }
+   }
+ 
+   .content__image {
+     margin-top: 15px;
+     display: flex;
+     justify-content: center;
+   }
+ 
+   .content__info {
+     margin-top: 40px;
+     display: flex;
+     justify-content: center;
+     text-align: center;
+     p {
+       width: 900px;
+       span {
+         display: block;
+         margin-bottom: 15px;
+         font-size: 27px;
+       }
+     }
+   }
+ }
